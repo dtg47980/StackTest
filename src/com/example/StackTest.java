@@ -1,4 +1,4 @@
-/** 20161007 lsh
+/** 20161008 lsh
  * Stack Test Sample Program
  * This program implement 4 APIs :
  * 	isEmpty()
